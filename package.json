@@ -1,6 +1,7 @@
 {
   "name": "my-project",
   "version": "0.1.0",
+  "description": "Neural Nexus OS",
   "private": true,
   "scripts": {
     "dev": "next dev",
